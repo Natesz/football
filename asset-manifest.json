@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/football/static/css/main.af3d18fb.chunk.css",
-    "main.js": "/football/static/js/main.70cca457.chunk.js",
-    "main.js.map": "/football/static/js/main.70cca457.chunk.js.map",
+    "main.js": "/football/static/js/main.d56ba098.chunk.js",
+    "main.js.map": "/football/static/js/main.d56ba098.chunk.js.map",
     "runtime-main.js": "/football/static/js/runtime-main.bae08913.js",
     "runtime-main.js.map": "/football/static/js/runtime-main.bae08913.js.map",
     "static/js/2.deb41f83.chunk.js": "/football/static/js/2.deb41f83.chunk.js",
     "static/js/2.deb41f83.chunk.js.map": "/football/static/js/2.deb41f83.chunk.js.map",
     "index.html": "/football/index.html",
-    "precache-manifest.720c194ab50bf02dade25c5e8c7078e1.js": "/football/precache-manifest.720c194ab50bf02dade25c5e8c7078e1.js",
+    "precache-manifest.335299a8bb910b3c6f910c72c1ce0da5.js": "/football/precache-manifest.335299a8bb910b3c6f910c72c1ce0da5.js",
     "service-worker.js": "/football/service-worker.js",
     "static/css/main.af3d18fb.chunk.css.map": "/football/static/css/main.af3d18fb.chunk.css.map",
     "static/js/2.deb41f83.chunk.js.LICENSE.txt": "/football/static/js/2.deb41f83.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.bae08913.js",
     "static/js/2.deb41f83.chunk.js",
     "static/css/main.af3d18fb.chunk.css",
-    "static/js/main.70cca457.chunk.js"
+    "static/js/main.d56ba098.chunk.js"
   ]
 }
